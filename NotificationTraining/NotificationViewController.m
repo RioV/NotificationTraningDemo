@@ -6,7 +6,7 @@
 #import "NotificationSender2ViewController.h"
 
 @interface NotificationViewController ()
-
+//
 @property (nonatomic, weak) IBOutlet UILabel *labelNotification1;
 @property (nonatomic, weak) IBOutlet UILabel *labelNotification2;
 @property (nonatomic, weak) IBOutlet UILabel *labelNotification3;
