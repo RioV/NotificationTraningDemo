@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  NotificationTraining
 //
-//  Created by Hoang Minh Nhat on 11/17/15.
+//  Created by Hoang Minh Nhat on 11/17/16.
 //  Copyright (c) 2015 Hoang Minh Nhat. All rights reserved.
 //
 
@@ -14,4 +14,3 @@
 
 
 @end
-

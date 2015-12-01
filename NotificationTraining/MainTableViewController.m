@@ -1,10 +1,6 @@
-//
-//  MainTableViewController.m
-//  NotificationTraining
-//
-//  Created by Hoang Minh Nhat on 11/17/15.
-//  Copyright © 2015 Hoang Minh Nhat. All rights reserved.
-//
+/**
+ * Copyright (C) 2015 NTT DOCOMO, INC. All Rights Reserved.
+ */
 
 #import "MainTableViewController.h"
 

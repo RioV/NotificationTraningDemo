@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  NotificationTraining
 //
-//  Created by Hoang Minh Nhat on 11/17/15.
+//  Created by Hoang Minh Nhat on 11/17/16.
 //  Copyright (c) 2015 Hoang Minh Nhat. All rights reserved.
 //
 
@@ -40,6 +40,16 @@
 
 - (void)applicationWillTerminate:(UIApplication *)application {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+-(BOOL)application:(UIApplication *)application shouldRestoreApplicationState:(NSCoder *)coder
+{
+    return YES;
+}
+
+-(BOOL)application:(UIApplication *)application shouldSaveApplicationState:(NSCoder *)coder
+{
+    return YES;
 }
 
 @end

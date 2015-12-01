@@ -1,10 +1,6 @@
-//
-//  NotificationViewController.h
-//  NotificationTraining
-//
-//  Created by Hoang Minh Nhat on 11/17/15.
-//  Copyright © 2015 Hoang Minh Nhat. All rights reserved.
-//
+/**
+ * Copyright (C) 2013-2015 NTT DOCOMO, INC. All Rights Reserved.
+ */
 
 #import <UIKit/UIKit.h>
 
